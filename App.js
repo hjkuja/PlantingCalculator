@@ -71,7 +71,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Aww yiss
+            This works now
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
