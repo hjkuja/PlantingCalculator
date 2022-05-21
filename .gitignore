@@ -25,8 +25,16 @@ project.xcworkspace
 # Watchman
 .watchmanconfig
 
-# Android
-/android/
+# Android/IntelliJ
+build/
+.idea
+.gradle
+*.so
+*.dex
+*/build/*
+local.properties
+*.iml
+
 
 # Node
 node_modules
