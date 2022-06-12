@@ -3,4 +3,5 @@
     <string name="GrainWeight">Tuhannen jyvän paino (g)</string>
     <string name="GiveGrainWeight">Anna tuhannen jyvän paino grammoina</string>
     <string name="Grams_short_small">g</string>
+    <string name="button_calculate">Laske</string>
 </resources>
