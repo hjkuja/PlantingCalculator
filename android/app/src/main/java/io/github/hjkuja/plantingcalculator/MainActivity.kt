@@ -57,7 +57,6 @@ class MainActivity : AppCompatActivity() {
             viewText.toDouble()
         } catch (exception: Exception){
             // Handle error
-            var i = 0
             if (exception::class == NumberFormatException::class){
                 if (viewText != ""){
                     view?.setTextColor(Color.RED)
