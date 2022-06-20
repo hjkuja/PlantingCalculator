@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">PlantingCalculator</string>
+    <string name="app_name">Kylvömäärälaskuri</string>
+    <string name="grain_weight">Tuhannen jyvän paino (g)</string>
+    <string name="give_grain_weight">Anna tuhannen jyvän paino grammoina</string>
+    <string name="button_calculate">Laske</string>
+    <string name="give_target_density">Anna tavoitetiheys (kappaletta per neliömetri)</string>
+    <string name="target_density">Tavoitetiheys (kpl/m²)</string>
+    <string name="germinability">Itävyys (%)</string>
+    <string name="give_germinability">Anna itävyys prosentteina</string>
+    <string name="plant_amount">Kylvömäärä kg/ha</string>
 </resources>
